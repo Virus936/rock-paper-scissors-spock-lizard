@@ -31,6 +31,7 @@ const Container = styled.div`
   background-color:rgba(205,205,255,0.3);
 
   .rules{
+    position:relative;
     display:flex;
     flex-direction:column;
     justify-content:space-around;
@@ -38,6 +39,11 @@ const Container = styled.div`
     width:100%;
     background:white;
     height:100%;
+
+    @media(min-width:700px){
+      width:400px;
+      height:500px;
+    }
   }
   button{
     position:absolute;
@@ -47,6 +53,14 @@ const Container = styled.div`
     bottom:2em;
     right:50%;
     transform:translateX(50%);
+    font-size:20px;
+    color:grey;
+
+    @media(min-width:700px){
+      bottom:inherit;
+      top:1em;
+      right:1em;
+    }
   }
   h1{
   text-transform:uppercase;
