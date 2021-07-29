@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rock-paper-scissors-spock-lizard/static/css/main.46c9c444.chunk.css",
+    "main.js": "/rock-paper-scissors-spock-lizard/static/js/main.c7246695.chunk.js",
+    "main.js.map": "/rock-paper-scissors-spock-lizard/static/js/main.c7246695.chunk.js.map",
+    "runtime-main.js": "/rock-paper-scissors-spock-lizard/static/js/runtime-main.c57ab20a.js",
+    "runtime-main.js.map": "/rock-paper-scissors-spock-lizard/static/js/runtime-main.c57ab20a.js.map",
+    "static/js/2.b42d5a05.chunk.js": "/rock-paper-scissors-spock-lizard/static/js/2.b42d5a05.chunk.js",
+    "static/js/2.b42d5a05.chunk.js.map": "/rock-paper-scissors-spock-lizard/static/js/2.b42d5a05.chunk.js.map",
+    "static/js/3.59c959ec.chunk.js": "/rock-paper-scissors-spock-lizard/static/js/3.59c959ec.chunk.js",
+    "static/js/3.59c959ec.chunk.js.map": "/rock-paper-scissors-spock-lizard/static/js/3.59c959ec.chunk.js.map",
+    "index.html": "/rock-paper-scissors-spock-lizard/index.html",
+    "static/css/main.46c9c444.chunk.css.map": "/rock-paper-scissors-spock-lizard/static/css/main.46c9c444.chunk.css.map",
+    "static/js/2.b42d5a05.chunk.js.LICENSE.txt": "/rock-paper-scissors-spock-lizard/static/js/2.b42d5a05.chunk.js.LICENSE.txt",
+    "static/media/bg-pentagon.1ad6d365.svg": "/rock-paper-scissors-spock-lizard/static/media/bg-pentagon.1ad6d365.svg",
+    "static/media/bg-triangle.c0c30b56.svg": "/rock-paper-scissors-spock-lizard/static/media/bg-triangle.c0c30b56.svg",
+    "static/media/icon-lizard.0f83914c.svg": "/rock-paper-scissors-spock-lizard/static/media/icon-lizard.0f83914c.svg",
+    "static/media/icon-paper.8b57a6b1.svg": "/rock-paper-scissors-spock-lizard/static/media/icon-paper.8b57a6b1.svg",
+    "static/media/icon-rock.476e90a9.svg": "/rock-paper-scissors-spock-lizard/static/media/icon-rock.476e90a9.svg",
+    "static/media/icon-scissors.3b1a5d7e.svg": "/rock-paper-scissors-spock-lizard/static/media/icon-scissors.3b1a5d7e.svg",
+    "static/media/icon-spock.f4d7eee8.svg": "/rock-paper-scissors-spock-lizard/static/media/icon-spock.f4d7eee8.svg",
+    "static/media/image-rules-bonus.513320fb.svg": "/rock-paper-scissors-spock-lizard/static/media/image-rules-bonus.513320fb.svg",
+    "static/media/image-rules.258b753f.svg": "/rock-paper-scissors-spock-lizard/static/media/image-rules.258b753f.svg",
+    "static/media/logo-bonus.9bf8aeb8.svg": "/rock-paper-scissors-spock-lizard/static/media/logo-bonus.9bf8aeb8.svg",
+    "static/media/logo.a4a2b39f.svg": "/rock-paper-scissors-spock-lizard/static/media/logo.a4a2b39f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c57ab20a.js",
+    "static/js/2.b42d5a05.chunk.js",
+    "static/css/main.46c9c444.chunk.css",
+    "static/js/main.c7246695.chunk.js"
+  ]
+}
